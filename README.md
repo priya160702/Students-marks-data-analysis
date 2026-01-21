@@ -1,4 +1,4 @@
 # Students-marks-data-analysis
 
 
-In this project, I analyzed students' performance in exams, aiming to understand how various factors—such as economic, personal, and social influences—affect their scores. The key inferences drawn include strategies to improve students' performance in each test, identifying the major factors influencing test scores, and evaluating the effectiveness of test preparation courses, along with other relevant insights. Following this, Logistic Regression was employed to predict future performance outcomes.
+This project analyzes student exam performance to understand how economic, personal, and social factors influence academic scores. The analysis focuses on identifying key drivers of performance, evaluating the impact of test preparation courses, and deriving actionable strategies to improve outcomes across different tests. A Logistic Regression model is then applied to predict future student performance based on these factors.
